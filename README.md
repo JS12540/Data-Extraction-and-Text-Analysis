@@ -7,7 +7,7 @@ Also did Normalization using PortStemmer
 Install following dependencies
 
 For Web Scraping:
-import bs4
+import bs4 
 import urllib
 import pandas as pd
 import html5lib
